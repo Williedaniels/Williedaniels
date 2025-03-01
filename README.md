@@ -1,7 +1,8 @@
 # Hi there! 👋🏾
 
  <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-## Attributes
+ 
+# Attributes
 
 - **Name**: Willie B Daniels
 - **Title**: Full Stack Developer | Flutter & Swift Fanatic
