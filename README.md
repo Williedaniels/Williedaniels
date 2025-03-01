@@ -1,6 +1,6 @@
 # Hi there! 👋🏾
 
-# Willie here <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+ <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 ## Attributes
 
 - **Name**: Willie B Daniels
