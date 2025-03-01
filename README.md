@@ -1,16 +1,11 @@
 # Hi there! 👋🏾
 
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
-
 # Willie here <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 ## Attributes
 
 - **Name**: Willie B Daniels
 - **Title**: Full Stack Developer | Flutter & Swift Fanatic
-- **Languages**: HTML, CSS, Java, Python | React, React Native, Swift
+- **Languages**: HTML, CSS, JavaScript, Python | React, React Native, Swift
 - **Interests**:
   - 🌐 App & Web Development
   - 🚀 Space Exploration
