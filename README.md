@@ -14,16 +14,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Williedaniels&theme=nord&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
 
-## My GitHub Stats
-
-<div style="background-color: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
-
-⭐ Total Stars Earned: ![GitHub Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=flat)  
-🔄 Total Commits (2025): ![GitHub Commits](https://img.shields.io/github/commit-activity/y/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME)  
-🤝 Total PRs: ![GitHub PRs](https://img.shields.io/github/issues-pr/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME)  
-📊 Total Issues: ![GitHub Issues](https://img.shields.io/github/issues/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME)  
-💻 Contributed to: [20] repositories last year
-
 ## My Tech Stack
 
 <table>
