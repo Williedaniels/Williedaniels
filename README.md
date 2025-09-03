@@ -12,8 +12,6 @@
   - 🚀 Space Exploration
   - ✨ Real Estate
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Williedaniels&theme=nord&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
-
 ## My Tech Stack
 
 <table>
