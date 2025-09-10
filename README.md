@@ -75,7 +75,7 @@ const willie = {
 
 ## Featured Projects
 
-```yaml
+```md
  Currently Working On:
   - Mobile App: Foster Eats (Private🌚)
   - Web Platform: Django REST API with React frontend
