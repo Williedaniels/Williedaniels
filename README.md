@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&width=600&lines=Building+scalable+mobile+%26+web+solutions;Passionate+about+clean+code+%26+great+UX;From+Liberia+%F0%9F%87%B1%F0%9F%87%B7+coding+in+Kigali+%F0%9F%87%B7%F0%9F%87%BC)](https://readme-typing-svg.herokuapp.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&width=600&lines=Building+scalable+mobile+%26+web+solutions;Passionate+about+clean+code+%26+great+UX;Just+a+chill+guy+%F0%9F%87%B1%F0%9F%87%B7+coding)](https://readme-typing-svg.herokuapp.com)
 
 </div>
 
