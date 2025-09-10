@@ -75,12 +75,10 @@ const willie = {
 
 ## Featured Projects
 
-```md
  Currently Working On:
   - Mobile App: Foster Eats (Private🌚)
   - Web Platform: Django REST API with React frontend
   - Learning: Machine Learning & Augmented Reality. Check out my progress: [Augmented Reality Repository](https://github.com/Williedaniels/augmented_reality.git) & [Visual Recognition System Repository](https://github.com/Williedaniels/visual_recognition_system.git)
-```
 
 ---
 
