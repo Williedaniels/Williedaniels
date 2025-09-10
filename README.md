@@ -77,9 +77,9 @@ const willie = {
 
 ```yaml
  Currently Working On:
-  - Mobile App: Flutter-based productivity suite
+  - Mobile App: Foster Eats (Private🌚)
   - Web Platform: Django REST API with React frontend
-  - Learning: Advanced Swift UI patterns
+  - Learning: Machine Learning & Augmented Reality. Check out my progress: [Augmented Reality Repository](https://github.com/Williedaniels/augmented_reality.git) & [Visual Recognition System Repository](https://github.com/Williedaniels/visual_recognition_system.git)
 ```
 
 ---
@@ -109,6 +109,6 @@ const willie = {
 
 ** Star my repositories if you find them interesting!**
 
-*Last updated: September 3 2025*
+*Last updated: September 10, 2025*
 
 </div>
